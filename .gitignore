@@ -12,7 +12,7 @@
 npm-debug.log*
 
 # packed files
-/release
+#/release
 /.idea/.gitignore
 /.idea/modules.xml
 /.idea/restore-copy-chrome-extension.iml
