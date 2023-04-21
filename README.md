@@ -4,8 +4,7 @@ A plug-in that allows copy to restore its own functions
 
 ## Features
 
-- Feature 1
-- Feature 2
+- copy to restore its own functions
 
 ## Install
 
